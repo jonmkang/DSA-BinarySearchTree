@@ -1,0 +1,3 @@
+4. What does this program do?
+    This function adds up and returns all values in the binary search tree.
+    The runtime of this algorithm is O(n/2) or O(n)
